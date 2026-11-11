@@ -1,0 +1,7 @@
+Generic mid-engine supercar (local filename: unbranded-mid-engine-supercar.glb)
+
+Source: https://www.innerscene.com/tools/library/3d-parts/generic-mid-engine-supercar-73f252c5
+Creator/source: Innerscene, original unbranded model
+License: CC0 1.0 Universal (public-domain dedication)
+
+The source listing states that the model may be used, modified, and redistributed commercially under CC0 1.0. The original model is unbranded and included locally for this demo. Its published overall dimensions are 4.631 × 2.090 × 1.189 m.

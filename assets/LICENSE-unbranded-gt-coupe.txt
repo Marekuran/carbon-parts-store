@@ -1,0 +1,8 @@
+Generic front-engine grand tourer coupe (local filename: unbranded-gt-coupe.glb)
+
+Source: https://www.innerscene.com/tools/library/3d-parts/generic-front-engine-grand-tourer-coupe-9a08f635
+Download file: generic-front-engine-grand-tourer-coupe.glb
+Creator/source: Innerscene, original model
+License: CC0 1.0 Universal (public-domain dedication)
+
+The source page identifies this as an original unbranded model and states that it may be used, modified, and redistributed commercially under CC0 1.0. The GLB is included locally for this demo; attribution is not required. The source page lists nominal dimensions of 4.840 × 2.237 × 1.347 m and real-world-scale glTF materials.

@@ -1,0 +1,7 @@
+Generic two-door coupe (local filename: unbranded-two-door-coupe.glb)
+
+Source: https://www.innerscene.com/tools/library/3d-parts/generic-two-door-coupe-f57c8670
+Creator/source: Innerscene, original unbranded model
+License: CC0 1.0 Universal (public-domain dedication)
+
+The source listing identifies this as an original model and states that it may be used, modified, and redistributed commercially under CC0 1.0. The model is included locally for this demo. The source listing gives real-scale dimensions of 4.543 × 2.146 × 1.357 m.
